@@ -4,7 +4,8 @@
 
 Super basic AWS Serverless example.
 
-#### Initial Setup
+## Initial Setup
+
 1. Serverless
    - [https://serverless.com/framework/docs/providers/aws/guide/installation/](https://serverless.com/framework/docs/providers/aws/guide/installation/)
 2. AWS CLI
